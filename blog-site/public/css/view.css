@@ -1,0 +1,36 @@
+body{
+    position: relative;
+    background-color: rgb(60, 60, 60);
+}
+
+button{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 100%;
+    text-align: center;
+    border: 35px;
+    border-radius: 12px;
+    padding:5px;
+    background-color: gold;
+    color: rgb(60, 60, 60);
+}
+
+h3{
+    text-align: center;
+    font-size: 15px;
+    color:gold;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p{
+    text-align: center;
+    font-size: 15px;
+    color:seashell;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.alert{
+    text-align: center;
+    color: aqua;
+    
+}
+    

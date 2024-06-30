@@ -1,0 +1,38 @@
+body {
+ background-color: rgb(60, 60, 60);
+ position: relative;
+ text-align: center;
+}
+
+
+
+h1 {
+    align-items: center;
+    font-size: 50px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:rgb(240, 240, 240);
+    padding: 235px 0px 0px;
+    
+
+}
+
+p{
+    text-align: center;
+    font-size: 15px;
+    color:gold;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+    
+}
+
+button{
+    align-items: center;
+    box-shadow: gold;
+    color:black;
+    border-radius: 17%;
+    background-color:whitesmoke;
+    border-right: 10px;
+    border-left: 10px;
+    
+    
+}
